@@ -1,4 +1,4 @@
 # new-repo
 new repo 
 
-read.me file edited.
+read.me file
